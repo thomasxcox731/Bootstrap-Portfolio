@@ -135,6 +135,7 @@ h3,h2 {
     font-size: 12px;
     text-align: center;
     margin-top: 15px;
+ 
 }
 .card-footer:last-child {
     background: #666;
@@ -146,11 +147,11 @@ h3,h2 {
     width: 100%;
     overflow: auto;
     position: relative;
-    float: left;
+    
     margin: 20px 0 25px;
 }
 #main-container2 {
-    height: 960px;
+    height: 1000px;
     padding-top: 130px;
 }
 .work:nth-child(even) {
@@ -161,6 +162,7 @@ h3,h2 {
     border: 0 none;
     opacity: .8;
     margin: 0;
+    
 }
 .work h3 {
     border-bottom: 0;
